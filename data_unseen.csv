@@ -1,0 +1,14 @@
+,Number,Age,Gender,Nationality,Program,Course,English,Academic,Attendance,6,7,8,9,10,11,12,13,14,15,16,17
+0,19,<18,M,Tanzania,FC,Business,60%~70%,60%~70%,S0,Disagree,Disagree,Agree,Disagree,Strong Agree,Disagree,Disagree,Agree,Agree,Disagree,Agree,Neither
+1,21,18-20,M,Oman,FC,Social Sciences and Humanities,60%~70%,>70%,S4,Strong Agree,Agree,Strong Agree,Neither,Disagree,Neither,Agree,Disagree,Agree,Disagree,Neither,Neither
+2,23,18-20,M,Zimbabwe,FC,Art and Design,60%~70%,>70%,S0,Disagree,Disagree,Disagree,Agree,Disagree,Agree,Agree,Strong Disagree,Disagree,Agree,Agree,Disagree
+3,24,18-20,M,Oman,FC,Social Sciences and Humanities,60%~70%,,S0,Disagree,Disagree,Neither,Disagree,Neither,Disagree,Strong Agree,Strong Disagree,Neither,Disagree,Disagree,Agree
+4,31,>36,M,China,Language,Art and Design,50%~59%,50%~59%,S2,Strong Agree,Agree,Agree,Neither,Neither,Neither,Agree,Agree,Neither,Agree,Agree,Strong Agree
+5,65,26-30,F,China,PM,Business,60%~70%,60%~70%,S0,Disagree,Strong Disagree,Neither,Neither,Agree,Neither,Agree,Strong Disagree,Neither,Strong Agree,Agree,Agree
+6,75,18-20,F,Vietnam,IYO,Business,,>70%,S0,Neither,Disagree,Strong Agree,Agree,Disagree,Neither,Neither,Disagree,Disagree,Neither,Agree,Neither
+7,82,18-20,F,China,IYO,Business,60%~70%,40%~49%,S3,Neither,Disagree,Agree,Agree,Strong Disagree,Agree,Neither,Disagree,Strong Disagree,Strong Agree,Neither,Disagree
+8,88,18-20,F,Thailand,FC,Business,60%~70%,,S0,Neither,Neither,Neither,Neither,Neither,Neither,Neither,Neither,Neither,Neither,Neither,Neither
+9,104,21-25,F,China,PM,Business,50%~59%,60%~70%,S0,Disagree,Neither,Agree,Neither,Agree,Strong Disagree,Agree,Neither,Agree,Disagree,Agree,Neither
+10,108,21-25,F,China,PM,Business,60%~70%,50%~59%,S0,Neither,Disagree,Agree,Neither,Agree,Neither,Agree,Neither,Disagree,Agree,Agree,Agree
+11,124,21-25,F,Ukraine,PM,Business,60%~70%,60%~70%,S1,Agree,Disagree,Disagree,Strong Agree,Disagree,Agree,Agree,Strong Disagree,Disagree,Strong Agree,Disagree,Disagree
+12,125,26-30,F,Korea,PM,Business,60%~70%,>70%,S0,Disagree,Strong Disagree,Agree,Agree,Agree,Strong Disagree,Disagree,Strong Disagree,Agree,Neither,Disagree,Strong Agree
